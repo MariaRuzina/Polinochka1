@@ -1,0 +1,8 @@
+name,year,path
+все везде и сразу,2021,Polinochka\movies\everythingeverywhereallatonce.jpg
+достучаться до небес,1997,Polinochka\movies\knockinonheavensdoor.jpg
+эрнест и селестина,2012,Polinochka\movies\ernestetcelestine.jpg
+беги лола беги,1998,Polinochka\movies\runlolarun.jpg
+тоня против всех,2017,Polinochka\movies\itonya.jpg
+леон,1994,Polinochka\movies\leon.jpg
+семейка аддамс,1991,Polinochka\movies\theadddamsfamily.jpg
